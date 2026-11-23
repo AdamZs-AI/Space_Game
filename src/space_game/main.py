@@ -1,4 +1,7 @@
-ethan et maxence
+################################
+# Ethan Adam et Maxence Karlik #
+################################
+
 # --- Import --- #
 import os
 import random
